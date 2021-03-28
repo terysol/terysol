@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ![solmin's github stats](https://github-readme-stats.vercel.app/api?username=terysol&show_icons=true)
 
 ![](https://img.shields.io/github/followers/terysol?style=social)
+
 ![c](https://img.shields.io/badge/-c-%23A8B9CC?logo=c&logoColor=white) ![java](https://img.shields.io/badge/-java-%23007396?logo=java)
