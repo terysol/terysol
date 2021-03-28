@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=terysol&layout=compact&theme=light)
 
 ## skills
-![c](https://img.shields.io/badge/-c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![java](https://img.shields.io/badge/-java-%23007396?style=for-the-badge&logo=java)
+![c](https://img.shields.io/badge/-c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![java](https://img.shields.io/badge/-java-%23007396?style=for-the-badge&logo=java) ![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white) 
 
 ### 🌱
+![react](https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
