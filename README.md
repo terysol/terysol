@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/followers/terysol?style=social)
 
 ![c](https://img.shields.io/badge/-c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![java](https://img.shields.io/badge/-java-%23007396?style=for-the-badge&logo=java)
+
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=terysol&layout=compact&theme=light)
