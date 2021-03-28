@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Solmin's%20GitHub)
-Hi there👋 Solmin Kim😎
+![header](https://capsule-render.vercel.app/api?type=waving&text=Solmin%20Kim)
 <!--
 **terysol/terysol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
