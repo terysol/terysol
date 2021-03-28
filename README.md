@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎈Github stats
 ![solmin's github stats](https://github-readme-stats.vercel.app/api?username=terysol&show_icons=true) ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=terysol&layout=compact&theme=light)
 
 ![](https://img.shields.io/github/followers/terysol?style=social)
