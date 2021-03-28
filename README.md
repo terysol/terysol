@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ## 🎈Github stats
 ![solmin's github stats](https://github-readme-stats.vercel.app/api?username=terysol&show_icons=true) 
-## 🎈 use Langages
+## 🎈 used Languages
 ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=terysol&layout=compact&theme=light)
 
-![](https://img.shields.io/github/followers/terysol?style=social)
-
+## skills
 ![c](https://img.shields.io/badge/-c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![java](https://img.shields.io/badge/-java-%23007396?style=for-the-badge&logo=java)
 
+### 🌱
